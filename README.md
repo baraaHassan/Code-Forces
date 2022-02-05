@@ -1,6 +1,193 @@
 # Code-Forces
 This repo contains the problem that I solved in Code forces during my competitive programming training phase
-# Div2. A Problems
-- [A. New Building for SIS](https://github.com/baraaHassan/Code-Forces/blob/main/A.%20New%20Building%20for%20SIS)
-- [A. Masha and Bears]()
-
+## Div2. A Problems
+- A. New Building for SIS
+  - Category: #math
+  - [Problem](https://codeforces.com/problemset/problem/1020/a)
+  - [My submission](https://codeforces.com/contest/1020/submission/41535334)
+  - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/A.%20New%20Building%20for%20SIS)
+- A. Masha and Bears
+  - Category: #brute_force
+  - [Problem](https://codeforces.com/contest/907/problem/A)
+  - [My submission](https://codeforces.com/contest/907/submission/33588207)
+  - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/A.%20Masha%20and%20Bears.cpp)
+- A. Splitting in Teams
+  - Category: #greedy #math #constructive_algorithms
+  - [Problem](https://codeforces.com/contest/899/problem/A)
+  - [My submission](https://codeforces.com/contest/899/submission/33536755)
+  - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/A.%20Splitting%20in%20Teams.cpp)
+- A. Visiting a Friend
+  - Category: #greedy
+  - [Problem](https://codeforces.com/contest/902/problem/A)
+  - [My submission](https://codeforces.com/contest/902/submission/33484482)
+  - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/A.%20Visiting%20a%20Friend.cpp)
+- A. Raising Bacteria
+  - Category: #bitmasks
+  - [Problem](https://codeforces.com/contest/579/problem/A)
+  - [My submission](https://codeforces.com/contest/579/submission/13120418)
+  - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/A.%20Raising%20Bacteria.cpp)
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
