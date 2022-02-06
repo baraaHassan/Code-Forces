@@ -188,3 +188,13 @@ This repo contains the problem that I solved in Codeforces during my competitive
   - [Problem]()
   - [My submission]()
   - [My code]()
+## Div. 2 B problems
+To be filled with the information
+## Div. 2 C problems
+To be filled with the information
+## Div. 2 D problems
+To be filled with the information
+## Div. 1 A problems
+To be filled with the information
+## Div. 1 B problems
+To be filled with the information
