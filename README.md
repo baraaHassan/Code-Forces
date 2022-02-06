@@ -1,5 +1,5 @@
 # Code-Forces
-This repo contains the problem that I solved in Code forces during my competitive programming training phase
+This repo contains the problem that I solved in Codeforces during my competitive programming training phase
 ## Div2. A Problems
 - A. New Building for SIS
   - Category: #math
@@ -26,66 +26,62 @@ This repo contains the problem that I solved in Code forces during my competitiv
   - [Problem](https://codeforces.com/contest/579/problem/A)
   - [My submission](https://codeforces.com/contest/579/submission/13120418)
   - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/A.%20Raising%20Bacteria.cpp)
-- A. 
-  - Category: #
-  - [Problem]()
-  - [My submission]()
-  - [My code]()
-- A. 
-  - Category: #
-  - [Problem]()
-  - [My submission]()
-  - [My code]()
-- A. 
-  - Category: #
-  - [Problem]()
-  - [My submission]()
-  - [My code]()
-- A. 
-  - Category: #
-  - [Problem]()
-  - [My submission]()
-  - [My code]()
-- A. 
-  - Category: #
-  - [Problem]()
-  - [My submission]()
-  - [My code]()
-- A. 
-  - Category: #
-  - [Problem]()
-  - [My submission]()
-  - [My code]()
-- A. 
-  - Category: #
-  - [Problem]()
-  - [My submission]()
-  - [My code]()
-- A. 
-  - Category: #
-  - [Problem]()
-  - [My submission]()
-  - [My code]()
-- A. 
-  - Category: #
-  - [Problem]()
-  - [My submission]()
-  - [My code]()
-- A. 
-  - Category: #
-  - [Problem]()
-  - [My submission]()
-  - [My code]()
-- A. 
-  - Category: #
-  - [Problem]()
-  - [My submission]()
-  - [My code]()
-- A. 
-  - Category: #
-  - [Problem]()
-  - [My submission]()
-  - [My code]()
+- A. Vitaliy and Pie
+  - Category: #greedy #hashing #strings
+  - [Problem](https://codeforces.com/contest/525/problem/A)
+  - [My submission](https://codeforces.com/contest/525/submission/10599501)
+  - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/A.%20Vitaliy%20and%20Pie.cpp)
+- A. Circle Line
+  - [Problem](https://codeforces.com/contest/278/problem/A)
+  - [My submission](https://codeforces.com/contest/278/submission/9809024)
+  - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/A.%20Circle%20Line.cpp)
+- A. Is your horseshoe on the other hoof?
+  - [Problem](https://codeforces.com/contest/228/problem/A)
+  - [My submission](https://codeforces.com/contest/228/submission/9594717)
+  - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/A.%20Is%20your%20horseshoe%20on%20the%20other%20hoof.cpp)
+- A. cAPS lOCK
+  - Category: #strings
+  - [Problem](https://codeforces.com/contest/131/problem/A)
+  - [My submission](https://codeforces.com/contest/131/submission/9594654)
+  - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/A.%20cAPS%20lOCK.cpp)
+- A. Heads or Tails
+  - Category: #brute force
+  - [Problem](https://codeforces.com/contest/242/problem/A)
+  - [My submission](https://codeforces.com/contest/242/submission/9594578)
+  - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/A.%20Heads%20or%20Tails.cpp)
+- A. Flipping Game
+  - Category: #brute force #dp
+  - [Problem](https://codeforces.com/contest/327/problem/A)
+  - [My submission](https://codeforces.com/contest/327/submission/9570775)
+  - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/A.%20Flipping%20Game.cpp)
+- A. Marks
+  - [Problem](https://codeforces.com/contest/152/problem/A)
+  - [My submission](https://codeforces.com/contest/152/submission/9559609)
+  - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/A.%20Marks.cpp)
+- A. Presents
+  - [Problem](https://codeforces.com/contest/136/problem/A)
+  - [My submission](https://codeforces.com/contest/136/submission/9559165)
+  - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/A.%20Presents.cpp)
+- A. Boy or Girl
+  - Category: #brute force #strings
+  - [Problem](https://codeforces.com/contest/236/problem/A)
+  - [My submission](https://codeforces.com/contest/236/submission/9559033)
+  - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/A.%20Boy%20or%20Girl.cpp)
+- A. Magic Numbers
+  - Category: #brute force #greedy
+  - [Problem](https://codeforces.com/contest/320/problem/A)
+  - [My submission](https://codeforces.com/contest/320/submission/9550345)
+  - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/A.%20Magic%20Numbers.cpp)
+- A. Even Odds
+  - Category: #math
+  - [Problem](https://codeforces.com/contest/318/problem/A)
+  - [My submission](https://codeforces.com/contest/318/submission/9550024)
+  - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/A.%20Even%20Odds.cpp)
+- A. Shaass and Oskols
+  - Category: #math
+  - [Problem](https://codeforces.com/contest/294/problem/A)
+  - [My submission](https://codeforces.com/contest/294/submission/9549722)
+  - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/A.%20Shaass%20and%20Oskols.cpp)
 - A. 
   - Category: #
   - [Problem]()
