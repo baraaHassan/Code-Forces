@@ -83,6 +83,7 @@ This repo contains the problem that I solved in Codeforces during my competitive
   - [Problem](https://codeforces.com/contest/294/problem/A)
   - [My submission](https://codeforces.com/contest/294/submission/9549722)
   - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/A.%20Shaass%20and%20Oskols.cpp)
+<!--
 - A. 
   - Category: #
   - [Problem]()
@@ -188,9 +189,20 @@ This repo contains the problem that I solved in Codeforces during my competitive
   - [Problem]()
   - [My submission]()
   - [My code]()
+-->
 ## Div. 2 B problems
+- B. Strings of Power
+  - Category: #strings #two pointers
+  - [Problem](https://codeforces.com/contest/318/problem/B)
+  - [My submission](https://codeforces.com/contest/318/submission/3987286)
+  - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/B.%20Strings%20of%20Power.cpp)
 To be filled with the information
 ## Div. 2 C problems
+- C. Registration system 
+  - Category: #hashing #data structures
+  - [Problem](https://codeforces.com/contest/4/problem/C)
+  - [My submission](https://codeforces.com/contest/4/submission/4004069)
+  - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/C.%20Registration%20system.cpp)
 To be filled with the information
 ## Div. 2 D problems
 To be filled with the information
