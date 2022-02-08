@@ -1,3 +1,7 @@
+![ACM](https://user-images.githubusercontent.com/49837627/152930703-b6f57155-9d97-4a04-92d2-df7a86e6e3c1.jpg)
+ACM ECPC 2014
+
+
 ### To be continued
 # Code-Forces
 This repo contains the problem that I solved in Codeforces during my competitive programming training phase
@@ -203,11 +207,42 @@ To be filled with the information
   - [Problem](https://codeforces.com/contest/4/problem/C)
   - [My submission](https://codeforces.com/contest/4/submission/4004069)
   - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/C.%20Registration%20system.cpp)
-
+- C. Design Tutorial: Make It Nondeterministic
+  - Category: #greedy
+  - [Problem](https://codeforces.com/contest/472/problem/C)
+  - [My submission](https://codeforces.com/contest/472/submission/8006472)
+  - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/C.%20Design%20Tutorial:%20Make%20It%20Nondeterministic.cpp)
+- C. Number of Ways
+  - Category: #binary search #brute force #data structures #dp #two pointers
+  - [Problem](https://codeforces.com/contest/466/problem/C)
+  - [My submission](https://codeforces.com/contest/466/submission/7853629)
+  - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/C.%20Number%20of%20Ways.cpp)
+- C. Email address
+  - Category: #expression parsing
+  - [Problem](https://codeforces.com/contest/41/problem/C)
+  - [My submission](https://codeforces.com/contest/41/submission/5784939)
+  - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/C.%20Email%20address.cpp)
+- C. Given Length and Sum of Digits
+  - Category: #dp #greedy
+  - [Problem](https://codeforces.com/contest/489/problem/C)
+  - [My submission](https://codeforces.com/contest/489/submission/20723095)
+  - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/C.%20Given%20Length%20and%20Sum%20of%20Digits.cpp)
+## Div. 1 + 2 A problems
+- A. The Rank
+  - Category: #
+  - [Problem](https://codeforces.com/contest/1017/problem/A)
+  - [My submission](https://codeforces.com/contest/1017/problem/A)
+  - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/A.%20The%20Rank.cpp)
 To be filled with the information
-## Div. 2 D problems
-To be filled with the information
-## Div. 1 A problems
-To be filled with the information
-## Div. 1 B problems
+## Div. 1 + 2 B problems
+- B. The Bits
+  - Category: #math
+  - [Problem](https://codeforces.com/contest/1017/problem/B)
+  - [My submission](https://codeforces.com/contest/1017/submission/41433572)
+  - [My code](https://github.com/baraaHassan/Code-Forces/blob/main/B.%20The%20Bits.cpp)
+- A. 
+  - Category: #
+  - [Problem]()
+  - [My submission]()
+  - [My code]()
 To be filled with the information
