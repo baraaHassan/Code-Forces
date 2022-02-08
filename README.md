@@ -1,11 +1,14 @@
-![ACM](https://user-images.githubusercontent.com/49837627/152930703-b6f57155-9d97-4a04-92d2-df7a86e6e3c1.jpg)
-ACM ECPC 2014
-
-
 ### To be continued
 # Code-Forces
 This repo contains the problem that I solved in Codeforces during my competitive programming training phase
-## Div2. A Problems
+
+![ACM](https://user-images.githubusercontent.com/49837627/152930703-b6f57155-9d97-4a04-92d2-df7a86e6e3c1.jpg)
+ACM ECPC 2014
+
+# Index
+- [Div2. A Problems](Div2_A_Problems)
+
+## Div2 A Problems
 - A. New Building for SIS
   - Category: #math
   - [Problem](https://codeforces.com/problemset/problem/1020/a)
